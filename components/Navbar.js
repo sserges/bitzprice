@@ -27,6 +27,11 @@ const Navbar = () => (
         font-size: 18px;
         margin-right: 20px;
       }
+
+      ul li a {
+        color: #fff;
+        text-decoration: none;
+      }
     `}</style>
   </div>
 );
